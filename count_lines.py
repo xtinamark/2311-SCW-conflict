@@ -1,10 +1,9 @@
-
 import sys
 
 """"
 This script counts the lines in standard input
 Input: text from the system.
-Author: Christina Markanastasaki
+Author: C. Markanastasaki
 """"
 count =0
 for line in sys.stdin:
