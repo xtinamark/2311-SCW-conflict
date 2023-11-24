@@ -14,3 +14,4 @@ print(count, "lines in standard input")
 Add explanation at the top
 
 I think it is good practice to document a script. 
+
